@@ -1,0 +1,20 @@
+# my-tasks.yaml — Tareas activas de Eneko
+
+tareas:
+  - tarea: "Contactar 10 propietarios nuevos en zona campus"
+    prioridad: alta
+    fecha_limite: "2026-04-01"
+    estado: pendiente
+    notas: "Usar lista de Fotocasa scraping"
+
+  - tarea: "Reunirse con 2 agencias inmobiliarias de Zaragoza"
+    prioridad: alta
+    fecha_limite: "2026-04-07"
+    estado: pendiente
+    notas: "Proponer acuerdo de distribucion gratuito"
+
+  - tarea: "Publicar 3 videos TikTok sobre vida universitaria"
+    prioridad: media
+    fecha_limite: "2026-04-01"
+    estado: pendiente
+    notas: "Seguir plan de contenidos 90 dias"

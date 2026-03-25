@@ -1,0 +1,32 @@
+# goals.yaml — Objetivos 90 dias Livix (Q1/Q2 2026)
+
+livix:
+  descripcion: "Marketplace de alojamiento universitario — fase traccion"
+  fase: "0-1"
+  horizonte: "90 dias"
+  objetivo_principal: "Alcanzar masa critica en Zaragoza antes del inicio del curso"
+  kpis:
+    propietarios_registrados:
+      target: 50
+      actual: 0
+    estudiantes_registrados:
+      target: 300
+      actual: 0
+    anuncios_activos:
+      target: 60
+      actual: 0
+      nota: "Estimado ~1.2 por propietario"
+    tasa_contacto:
+      target: "20%"
+      actual: null
+      nota: "Al menos 1 de cada 5 estudiantes contacta a un propietario"
+  hitos:
+    mes_1: "15 propietarios registrados + primeras residencias en plataforma"
+    mes_2: "30 propietarios + 100 estudiantes registrados"
+    mes_3: "50 propietarios + 300 estudiantes + primeros matches confirmados"
+  financiacion:
+    objetivo: "Primero traccion, luego financiacion"
+    programas_activos:
+      - "ENISA"
+      - "Business Angels Red Araban"
+    estado: "Pausado este trimestre — foco en metricas de uso"
